@@ -1,5 +1,6 @@
 # The HEAL Syllabus
-This is a collection of papers and resources (by other people) that I find particularly good for 'getting your feet wet' with some of the research we do in HEAL. 
+This is a collection of papers and resources (by other people) that I find particularly useful for 'getting your feet wet' with some of the research we do in HEAL.
+ 
 *denotes Kansas focus
 
 ## Groundwater sustainability
@@ -14,11 +15,11 @@ This is a collection of papers and resources (by other people) that I find parti
  - *Drysdale & Hendricks (2018). [Adaptation to an irrigation water restriction imposed through local governance](http://doi.org/10.1016/j.jeem.2018.08.002).
  - *Haacker et al. (2016). [Water Level Declines in the High Plains Aquifer: Predevelopment to Resource Senescence](http://doi.org/10.1111/gwat.12350).
  - *Hornbeck & Keskin (2014). [The historically evolving impact of the Ogallala Aquifer: Agricultural adaptation to groundwater and drought](http://doi.org/10.1257/app.6.1.190).
- - *Whittermore et al. (2016). [Assessing the major drivers of water-level declines: new insights into the future of heavily stressed aquifers](http://doi.org/10.1080/02626667.2014.959958).
+ - *Whittemore et al. (2016). [Assessing the major drivers of water-level declines: new insights into the future of heavily stressed aquifers](http://doi.org/10.1080/02626667.2014.959958).
  
 ## Groundwater modelling
  - Enemark et al. (2019). [Hydrogeological conceptual model building and testing: A review](http://doi.org/10.1016/j.jhydrol.2018.12.007). _Creating and describing your conceptual model should be the first step in the research process - so why don't we ever talk about it?_
- - Hill (2006). [The Practical Use of Simplicity in Developing Ground Water Models](http://doi.org/10.1111/j.1745-6584.2006.00227.x). _Great overview of groundwater model simplification and calibration. Expanded on significantly in Hill & Tildeman's classic textbook, [Effective Groundwater Model Calibration](https://onlinelibrary.wiley.com/doi/book/10.1002/0470041080)._
+ - Hill (2006). [The Practical Use of Simplicity in Developing Ground Water Models](http://doi.org/10.1111/j.1745-6584.2006.00227.x). _Great overview of groundwater model simplification and calibration. Expanded on the textbook, [Effective Groundwater Model Calibration](https://onlinelibrary.wiley.com/doi/book/10.1002/0470041080)._
  - Rossman & Zlotnik (2013). [Regional groundwater flow modeling in heavily irrigated basins of selected states in the western United States](https://doi.org/10.1007/s10040-013-1010-3). _Useful review of existing groundwater models in the High Plains region and western US._
  - Voss et al. (2011). Groundwater modeling fantasies: [part 1, adrift in the details](http://doi.org/10.1007/s10040-011-0789-z) and [part 2, down to earth](http://doi.org/10.1007/s10040-011-0790-6). _Great overview of limitations and path forward for groundwater modellers._
  - White (2017). [Forecast First: An Argument for Groundwater Modeling in Reverse](http://doi.org/10.1111/gwat.12558). _An ordered workflow to model development._
