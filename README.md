@@ -1,5 +1,5 @@
 # HEAL-documentation
-This repository contains documentation (policies, expectations, procedures, readings) to help navigate life in the Hydrogeology and Ecohydrology of Agricultural Landscapes (HEAL) group, led by [Sam Zipper](https://samzipper.weebly.com) at the [Kansas Geological Survey](http://www.kgs.ku.edu/)/[University of Kansas](https://ku.edu/).
+This repository contains documentation (policies, expectations, procedures, readings) to help navigate life in the HydroEcology of Agricultural Landscapes (HEAL) group, led by [Sam Zipper](https://samzipper.weebly.com) at the [Kansas Geological Survey](http://www.kgs.ku.edu/)/[University of Kansas](https://ku.edu/).
 
 ## Lab Mission Statement
 
