@@ -20,8 +20,8 @@ This is a collection of papers and resources (by other people) that I find parti
 ## Groundwater modelling
  - Enemark et al. (2019). [Hydrogeological conceptual model building and testing: A review](http://doi.org/10.1016/j.jhydrol.2018.12.007). _Creating and describing your conceptual model should be the first step in the research process - so why don't we ever talk about it?_
  - Hill (2006). [The Practical Use of Simplicity in Developing Ground Water Models](http://doi.org/10.1111/j.1745-6584.2006.00227.x). _Great overview of groundwater model simplification and calibration. Expanded on the textbook, [Effective Groundwater Model Calibration](https://onlinelibrary.wiley.com/doi/book/10.1002/0470041080)._
- - Rossman & Zlotnik (2013). [Regional groundwater flow modeling in heavily irrigated basins of selected states in the western United States](https://doi.org/10.1007/s10040-013-1010-3). _Useful review of existing groundwater models in the High Plains region and western US._
- - Voss et al. (2011). Groundwater modeling fantasies: [part 1, adrift in the details](http://doi.org/10.1007/s10040-011-0789-z) and [part 2, down to earth](http://doi.org/10.1007/s10040-011-0790-6). _Great overview of limitations and path forward for groundwater modellers._
+ - *Rossman & Zlotnik (2013). [Regional groundwater flow modeling in heavily irrigated basins of selected states in the western United States](https://doi.org/10.1007/s10040-013-1010-3). _Useful review of existing groundwater models in the High Plains region and western US._
+ - Voss et al. (2011). Groundwater modeling fantasies: [part 1, adrift in the details](http://doi.org/10.1007/s10040-011-0789-z) and [part 2, down to earth](http://doi.org/10.1007/s10040-011-0790-6). _General philosophy and specific recommendations for effective groundwater modelling._
  - White (2017). [Forecast First: An Argument for Groundwater Modeling in Reverse](http://doi.org/10.1111/gwat.12558). _An ordered workflow to model development._
 
  ## Socio-environmental synthesis
@@ -49,8 +49,11 @@ This is a collection of papers and resources (by other people) that I find parti
 
 ## Research methods
  - Broman & Woo (2018). [Data organization in spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989). _Think you know how to organize your spreadsheets? I bet there's something in here you're not doing..._
- - Schimel (2011). [Writing Science: How to write papers that get cited and proposals that get funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241). _Classic book recommended by pretty much everyone who has ever read it._
+ - Eise et al. (2019). [Use﻿ peer-to-peer research collaboration in graduate school](http://doi.org/10.1038/d41586-019-01737-y). _Advice on building collaborative research projects as a grad student, but relevant no matter your career stage!_
  - Frassl et al. (2018). [Ten simple rules for collaboratively writing a multi-authored paper](https://doi.org/10.1371/journal.pcbi.1006508). _This is relevant to the entire research process, not just the writing step!_
+ - Gewin (2018). [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4). _A collection of tips from people at various career stages._
+ - Noble (2017). [Ten simple rules for writing a response to reviewers](https://doi.org/10.1371/journal.pcbi.1005730). _How to make the most of your reviews to improve your manuscript (and not get rejected!)._
+ - Schimel (2011). [Writing Science: How to write papers that get cited and proposals that get funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241). _This book seems to be recommended by pretty much everyone who has ever read it._
 
 ## Useful Tools
  - Bakker et al. (2016). [Scripting MODFLOW Model Development Using Python and FloPy](http://doi.org/10.1111/gwat.12413). _FloPy is the best and most reproducible way to build and run MODFLOW models._
